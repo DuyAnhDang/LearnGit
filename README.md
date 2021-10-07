@@ -1,2 +1,2 @@
 # LearnGit
-This is git1
+This is branch2
